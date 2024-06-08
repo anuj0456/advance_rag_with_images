@@ -1,0 +1,13 @@
+flask
+langchain
+openai
+chromadb
+langchain-experimental
+unstructured[all-docs]==0.10.19
+pillow
+pydantic
+lxml
+pillow
+matplotlib
+tiktoken
+torch
