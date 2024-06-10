@@ -1,4 +1,4 @@
-# Advanced RAG with Images
+# Advanced RAG with Images and Tables
 
 git clone the application
 ```bash
